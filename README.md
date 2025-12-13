@@ -17,4 +17,4 @@ My approach is to keep things simple, clear, and well-structured: solutions that
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/laurasot  
-- Portfolio: https://portfolio-a47.pages.dev/
+- Portfolio: [https://portfolio-a47.pages.dev/](https://www.laurasot.work/)
