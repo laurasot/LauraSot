@@ -34,15 +34,11 @@ React, Astro, TypeScript, Interactive Web Applications, Immersive Experiences
 
 I enjoy designing and building systems that combine artificial intelligence, cloud computing, and automation to solve real-world problems.
 
-My experience spans AI-powered applications, document processing, conversational systems, process automation, distributed architectures, and cloud platforms. Over the last few years, I have focused on designing solutions on AWS while applying principles of resilience, scalability, security, and operational efficiency.
+My experience focuses on AI-powered applications, process automation, and distributed architectures on AWS, with a particular interest in designing resilient, scalable, and efficient solutions for production environments.
 
-I am particularly interested in the intersection of artificial intelligence and cloud architecture, where intelligent systems must integrate reliably with production environments, process information in real time, and scale sustainably.
+I believe engineering is not only about building software, but about creating solutions that deliver real value. For that reason, I strive to balance innovation, operational simplicity, sustainability, and cost optimization while building systems that can evolve and grow over time.
 
-Beyond implementation, I believe engineering is not only about building software but about solving real problems in a responsible and effective way. My goal is to design solutions that provide tangible value while balancing innovation, operational simplicity, long-term sustainability, and cost efficiency. I enjoy creating systems that are easy to evolve, straightforward to operate, and capable of scaling as needs grow over time.
-
-Outside of professional work, I enjoy exploring new technologies through personal projects and hands-on experimentation. I am especially interested in multimodal systems, audio processing, conversational interfaces, immersive experiences, and new ways for people to interact with technology.
-
-I am currently expanding my knowledge in solution architecture, distributed systems, and applied artificial intelligence, with the goal of building increasingly robust, innovative, and impactful platforms.
+Outside of work, I enjoy exploring new technologies through personal projects and hands-on experimentation, particularly in areas related to multimodal systems, audio, conversational interfaces, and AI-driven immersive experiences.
 
 *Still learning. Sometimes I know things.*
 
