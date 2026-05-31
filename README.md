@@ -61,3 +61,7 @@ Outside of work, I enjoy exploring new technologies through personal projects an
 </p>
 
 ![From Magikarp to Gyarados](assets/evolution.png)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=laurasot&label=Fellow%20Engineers&color=30363d&style=flat-square" />
+</p>
