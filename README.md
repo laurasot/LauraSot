@@ -27,6 +27,9 @@ My approach is to keep things simple, clear, and well-structured: solutions that
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=laurasot&label=Curious%20Visitors&color=0e75b6&style=flat" />
+</p>
 Still learning. Sometimes I know things.
 
 ![From Magikarp to Gyarados](assets/evolution.png)
