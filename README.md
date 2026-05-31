@@ -1,8 +1,20 @@
 # Hi, I'm Laura
 
-Cloud & AI Engineer
+## Cloud & AI Engineer
+
+Building scalable, resilient, and intelligent systems.
 
 Currently building AI-powered solutions, cloud-native architectures, and distributed systems designed to operate reliably, efficiently, and at scale.
+
+<p align="left">
+  <a href="https://www.credly.com/badges/20919825-bb26-4752-b657-fa22b674730e/linked_in_profile">
+    <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-30363d?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+
+  <a href="https://www.credly.com/badges/2a9b1667-96de-48a1-a81c-39b71ea88d99/linked_in_profile">
+    <img src="https://img.shields.io/badge/AWS_AI_Practitioner-30363d?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+</p>
 
 ## Technologies & Areas of Expertise
 
@@ -76,7 +88,5 @@ I am currently expanding my knowledge in solution architecture, distributed syst
     <img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-Still learning. Sometimes I know things.
 
 ![From Magikarp to Gyarados](assets/evolution.png)
