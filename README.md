@@ -18,3 +18,7 @@ My approach is to keep things simple, clear, and well-structured: solutions that
 ## Contact
 - LinkedIn: https://linkedin.com/in/laurasot  
 - Portfolio: https://www.laurasot.work/
+
+Still learning. Sometimes I know things.
+
+![From Magikarp to Gyarados](assets/evolution.png)
