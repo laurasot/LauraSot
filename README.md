@@ -19,41 +19,16 @@ Currently building AI-powered solutions, cloud-native architectures, and distrib
 ## Technologies & Areas of Expertise
 
 ### Artificial Intelligence
-
-* Applied AI and LLM-powered systems
-* RAG and multi-agent architectures
-* Agent orchestration (LangChain, LangGraph, Strands)
-* Document processing, multimodal systems, and real-time AI
-* Voice, audio, and conversational interfaces
-* Open-source models and local AI
-* Amazon Bedrock and SageMaker
+LLMs, RAG, Multi-Agent Systems, Agent Orchestration, Conversational AI, Voice Interfaces, Multimodal Systems, Real-Time AI, Open-Source Models, Bedrock, SageMaker
 
 ### Cloud, DevOps & Architecture
-
-* Cloud Architecture on AWS
-* Infrastructure as Code with AWS CDK
-* Containers and serverless platforms
-* Relational and NoSQL databases
-* Event-driven architectures
-* Process orchestration and automation
-* Security, IAM, and access management
-* CI/CD pipelines and deployment automation
-* Resilient, scalable, and cost-efficient system design
-* Observability, governance, and operational excellence
+AWS, AWS CDK, Containers, Serverless, Relational & NoSQL Databases, Event-Driven Architectures, Process Automation, IAM, CI/CD, Observability, Governance, Resilient & Cost-Efficient Systems
 
 ### Backend & Integration
-
-* Backend services with Python, FastAPI, TypeScript, and Java
-* REST API design and implementation
-* Microservices and distributed systems
-* Integration between platforms, services, and external systems
-* Process automation and business workflows
+Python, FastAPI, TypeScript, Java, REST APIs, Microservices, Distributed Systems, Platform Integrations, Workflow Automation
 
 ### Frontend
-
-* Web application development
-* React, Astro, and TypeScript
-* Interactive and immersive user experiences
+React, Astro, TypeScript, Interactive Web Applications, Immersive Experiences
 
 ## About Me
 
